@@ -1,0 +1,6 @@
+{
+  "header": { "start": "A1", "end": "A3"},
+  "A1": { "prev": "", "next": "A2" },
+  "A2": { "prev": "A1", "next": "A3" },
+  "A3": { "prev": "A2", "next": "" }
+}
