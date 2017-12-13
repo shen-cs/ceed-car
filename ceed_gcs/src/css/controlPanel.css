@@ -1,0 +1,19 @@
+
+.slider-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+}
+
+.address-field {
+  width: 30%;
+  align-items: center;
+  flex: 1;
+}
+
+.connect-container {
+  width: 90%;
+  margin-top: 30px;
+  align-items: center;
+}

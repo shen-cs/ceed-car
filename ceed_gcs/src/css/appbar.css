@@ -1,0 +1,14 @@
+.app-bar{
+  -moz-transition: left 218ms cubic-bezier(0.4, 0, 0.2, 1);
+  -o-transition: left 218ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: left 218ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: left 218ms cubic-bezier(0.4, 0, 0.2, 1);
+  left: 0;
+  width: auto !important;
+  right: 0 !important;
+  position: fixed !important;
+}
+
+.app-bar.expanded{
+  left: 20%;
+}

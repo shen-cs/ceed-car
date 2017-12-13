@@ -1,0 +1,16 @@
+.inverted {
+  filter: invert(85%);
+  transition: 0.1s ease-out;
+}
+
+.left {
+  transform: rotate(180deg);
+}
+
+.forward {
+  transform: rotate(270deg);
+}
+
+.backward {
+  transform: rotate(90deg);
+}
