@@ -7,3 +7,9 @@ Supports:
 * visualization of graph-based map
 * remote control
 
+Usage:
+1. install [nodejs](https://nodejs.org/en/)
+2. install required modules: 
+```npm install```
+
+3. ```npm start```
